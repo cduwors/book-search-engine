@@ -22,6 +22,8 @@ Application deployed via Heroku using a MongoDB Database and MongoDB Atlas.
 
 ## Deployed Application
 
+Coming Soon! Due to technical issues, this application is not yet deployed.
+
 ## Technology Used
 
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
